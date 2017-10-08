@@ -1,0 +1,59 @@
+The Computer Science class is taught by Caelum Forder. </b><p>
+
+<img src="images/CompSci highlighted.png" style="display: inline-block; position: absolute; right: 0px; margin-top: -60px; height: auto; max-height: 35%; max-width: 20%;z-index: -10000; "/>
+<br>
+<br>
+<br>
+
+<div id="customQuote"><p>Computer science is a study of the theory, experimentation, and engineering that form the basis for the design and use of computers</p></div>
+
+<p>In Computer Science class we will learn about how computers work, the data structures used in everyday programs, how to manipulate that data with algorithms and the cryptography that keeps the whole process safe from malicious entities.
+<br>
+<br>
+The first handful of classes focus on Java(not JavaScript), a high-level language that is comprehensive in ability and availability; though we may move on to other languages in the future to cover more bases.
+<br>
+<br>
+This class is at the end of the main stream, so as a pre-requisite you must be at least moderately familiar with JavaScript or another C-like programming language such as Python, Go or of course C , C++ or C#. 
+<br>
+If you're not sufficiently familiar with a similar language, it is better to start somewhere upstream
+
+<br>
+<br>
+To come prepared, install <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA Community Edition</a> and <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">a Java JDK</a>. If you <i>REALLY</i> want, Eclipse or another IDE will suffice, but in my opinion IntelliJ is the best IDE for Java.
+
+
+<script>
+
+
+
+$("#customQuote").css({
+
+             width: "60%",
+             backgroundColor: "rgb(180, 179, 182)",
+             borderLeft: "10px solid #ccc",
+             marginTop: "10px",
+             marginRight: "10px",
+             marginLeft: "60px",
+             marginBottom: "10px",
+             padding: "0.5em 10px",
+             quotes: '"\201C""\201D""\2018""\2019"'
+
+
+});
+$("customQuote:before").css({
+            color: "#ccc",
+            content: "open-quote",
+            fontSize: "4em",
+            lineHeight: "0.1em",
+            marginRight: "0.25em",
+            verticalAlign: "-0.4em",
+});
+$("customQuote p").css({
+             display: "inline",
+});
+
+$("p").css({
+            width: "60%"
+});
+</script>
+<p><b>

@@ -1,0 +1,3 @@
+Our hardware class is where you can learn how to make circuits and other systems. Here is an example of a Raspberry Pi that you could be working with:
+
+<img src="images/raspberrypi.png"/>

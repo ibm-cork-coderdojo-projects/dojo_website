@@ -1,0 +1,1 @@
+After you are done with our beginner web development class, you should progress to this class where you will learn more advanced methods and Javascript.

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<courses>
+  <course>
+    <name>Beginner Web Development</name>
+    <link>beginner-web-development</link>
+  </course>
+  <course>
+    <name>Advanced Web Development</name>
+    <link>advanced-web-development</link>
+  </course>
+  <course>
+    <name>Hardware</name>
+    <link>hardware</link>
+  </course>
+  <course>
+    <name>Graphics</name>
+    <link>graphics</link>
+  </course>
+  <course>
+    <name>Computer Science</name>
+    <link>cs</link>
+  </course>
+  <course>
+    <name/>
+    <link>ss45</link>
+  </course>
+  <course>
+    <name/>
+    <link/>
+  </course>
+  <course>
+    <name/>
+    <link/>
+  </course>
+  <course>
+    <name></name>
+    <link></link>
+  </course>
+</courses>

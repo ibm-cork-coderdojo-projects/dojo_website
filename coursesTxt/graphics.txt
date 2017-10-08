@@ -1,0 +1,3 @@
+Our graphic class teaches people how to make animations, logos, videos and more. This is one of our most popular classes.
+
+<img src="images/graphics.jpg"/>
